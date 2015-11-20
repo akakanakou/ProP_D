@@ -44,6 +44,14 @@
             android:label="@string/title_activity_database_helper"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
+        <activity
+            android:name=".IntentActivity"
+            android:label="@string/title_activity_intent" >
+        </activity>
+        <activity
+            android:name=".SubActivity"
+            android:label="@string/title_activity_sub" >
+        </activity>
     </application>
 
 </manifest>
